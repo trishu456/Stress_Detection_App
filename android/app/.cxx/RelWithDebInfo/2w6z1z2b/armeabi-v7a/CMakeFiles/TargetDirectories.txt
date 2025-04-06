@@ -1,0 +1,2 @@
+C:/Users/Shashank Singh/Favorites/stressdetectapp/android/app/.cxx/RelWithDebInfo/2w6z1z2b/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/Shashank Singh/Favorites/stressdetectapp/android/app/.cxx/RelWithDebInfo/2w6z1z2b/armeabi-v7a/CMakeFiles/rebuild_cache.dir
